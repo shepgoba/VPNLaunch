@@ -1,0 +1,9 @@
+Package: com.shepgoba.vpnlaunch
+Name: VPNLaunch
+Version: 0.1.2
+Architecture: iphoneos-arm
+Description: Only launch an app if VPN is enabled.
+Maintainer: shepgoba
+Author: shepgoba
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
